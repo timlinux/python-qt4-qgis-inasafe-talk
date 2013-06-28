@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b06c34a-93ad-459b-acd4-0598108fd8c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/half.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/test_half.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jakarta-python-users-talk.iml" afterPath="$PROJECT_DIR$/.idea/jakarta-python-users-talk.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/testrunner.xml" afterPath="$PROJECT_DIR$/.idea/testrunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantras/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/worst_practice/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantras/mantra1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantras/mantra2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantras/mantra3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantras/mantra5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mantras/mantra7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/worst_practice/pylint_examples.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jakarta-python-users-talk.iws" />
@@ -18,10 +21,17 @@
     <file path="/dialog_app.py" changelist="8b06c34a-93ad-459b-acd4-0598108fd8c2" time="1372356397846" ignored="false" />
     <file path="/qgis_app.py" changelist="8b06c34a-93ad-459b-acd4-0598108fd8c2" time="1372393677222" ignored="false" />
     <file path="/*.regexp" changelist="8b06c34a-93ad-459b-acd4-0598108fd8c2" time="1372392971711" ignored="false" />
-    <file path="/Dummy.txt" changelist="8b06c34a-93ad-459b-acd4-0598108fd8c2" time="1372400029062" ignored="false" />
+    <file path="/Dummy.txt" changelist="8b06c34a-93ad-459b-acd4-0598108fd8c2" time="1372420056349" ignored="false" />
     <file path="/acme_corp.py" changelist="8b06c34a-93ad-459b-acd4-0598108fd8c2" time="1372400362259" ignored="false" />
     <file path="/a.sql" changelist="8b06c34a-93ad-459b-acd4-0598108fd8c2" time="1372400453822" ignored="false" />
     <file path="/test_half.py" changelist="8b06c34a-93ad-459b-acd4-0598108fd8c2" time="1372400756056" ignored="false" />
+    <file path="/pylint-examples.py" changelist="8b06c34a-93ad-459b-acd4-0598108fd8c2" time="1372420763005" ignored="false" />
+    <file path="/pylint_examples.py" changelist="8b06c34a-93ad-459b-acd4-0598108fd8c2" time="1372421057308" ignored="false" />
+    <file path="/mantra1.py" changelist="8b06c34a-93ad-459b-acd4-0598108fd8c2" time="1372434122291" ignored="false" />
+    <file path="/mantra2.py" changelist="8b06c34a-93ad-459b-acd4-0598108fd8c2" time="1372433926636" ignored="false" />
+    <file path="/mantra3.py" changelist="8b06c34a-93ad-459b-acd4-0598108fd8c2" time="1372435059283" ignored="false" />
+    <file path="/mantra5.py" changelist="8b06c34a-93ad-459b-acd4-0598108fd8c2" time="1372435708439" ignored="false" />
+    <file path="/mantra7.py" changelist="8b06c34a-93ad-459b-acd4-0598108fd8c2" time="1372437206058" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,44 +60,73 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="qt4-demo2.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/qt4/qt4-demo2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="17" selection-start="0" selection-end="1000" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1372354493000" expanded="true" signature="199:237" placeholder="import ..." />
-                <marker date="1372354493000" expanded="true" signature="272:926" placeholder="..." />
-                <marker date="1372354493000" expanded="true" signature="303:861" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dialog_app.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/qt4/dialog_app.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="34" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1372356444000" expanded="true" signature="321:555" placeholder="..." />
-                <marker date="1372356444000" expanded="true" signature="346:430" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="qgis_app.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/qgis/qgis_app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="8" selection-start="574" selection-end="574" vertical-scroll-proportion="0.0">
+            <state line="38" column="0" selection-start="952" selection-end="978" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="half.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="mantra1.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mantras/mantra1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="25" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mantra3.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mantras/mantra3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="0" selection-end="2586" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mantra5.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mantras/mantra5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="15" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mantra7.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mantras/mantra7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="75" selection-end="99" vertical-scroll-proportion="0.08539326">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mantra2.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mantras/mantra2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="0" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="half.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/half.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="7" selection-start="84" selection-end="84" vertical-scroll-proportion="0.12025317">
+            <state line="3" column="0" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pylint_examples.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/worst_practice/pylint_examples.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="0" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -96,7 +135,7 @@
       <file leaf-file-name="test_half.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/test_half.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="19" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0">
+            <state line="1" column="0" selection-start="15" selection-end="362" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -127,14 +166,42 @@
         <option value="$PROJECT_DIR$/tests/acme_corp.py" />
         <option value="$PROJECT_DIR$/tests/test_half.py" />
         <option value="$PROJECT_DIR$/tests/half.py" />
+        <option value="$PROJECT_DIR$/best-practice/pylint-examples.py" />
+        <option value="$PROJECT_DIR$/best-practice/pylint_examples.py" />
+        <option value="$PROJECT_DIR$/worst-practice/pylint_examples.py" />
+        <option value="$PROJECT_DIR$/worst_practice/pylint_examples.py" />
+        <option value="$PROJECT_DIR$/mantras/mantra2.py" />
+        <option value="$PROJECT_DIR$/mantras/mantra1.py" />
+        <option value="$PROJECT_DIR$/mantras/mantra3.py" />
+        <option value="$PROJECT_DIR$/mantras/mantra5.py" />
+        <option value="$PROJECT_DIR$/mantras/mantra7.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="10" />
-    <option name="y" value="29" />
+    <option name="y" value="22" />
     <option name="width" value="1260" />
-    <option name="height" value="991" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyDocstringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -162,7 +229,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -191,7 +257,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
+              <option name="myItemId" value="worst_practice" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -205,7 +271,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="qt4" />
+              <option name="myItemId" value="tests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -223,18 +289,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jakarta-python-users-talk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jakarta-python-users-talk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mantras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -250,45 +331,7 @@
       <recent name="$PROJECT_DIR$/qt4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_half">
-    <configuration default="false" name="qt4-demo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qt4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="jakarta-python-users-talk" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qt4/qt4-demo2.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="dialog_app" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qt4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="jakarta-python-users-talk" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qt4/dialog_app.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.mantra7">
     <configuration default="false" name="qgis_app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,6 +391,50 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest TestMinimum.test_get_minimum" type="tests" factoryName="Unittests" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mantras" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jakarta-python-users-talk" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mantras/mantra2.py" />
+      <option name="CLASS_NAME" value="TestMinimum" />
+      <option name="METHOD_NAME" value="test_get_minimum" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="mantra7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mantras" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jakarta-python-users-talk" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mantras/mantra7.py" />
+      <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
@@ -435,19 +522,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.qt4-demo2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.dialog_app" />
-      <item index="2" class="java.lang.String" itemvalue="Python.qgis_app" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test_half" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_half" />
+      <item index="0" class="java.lang.String" itemvalue="Python.qgis_app" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test_half" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_half" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestMinimum.test_get_minimum" />
+      <item index="4" class="java.lang.String" itemvalue="Python.mantra7" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_half" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test_half" />
-        <item index="2" class="java.lang.String" itemvalue="Python.qgis_app" />
-        <item index="3" class="java.lang.String" itemvalue="Python.dialog_app" />
-        <item index="4" class="java.lang.String" itemvalue="Python.qt4-demo2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.mantra7" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestMinimum.test_get_minimum" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_half" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test_half" />
+        <item index="4" class="java.lang.String" itemvalue="Python.qgis_app" />
       </list>
     </recent_temporary>
   </component>
@@ -478,26 +565,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="29" width="1260" height="991" extended-state="0" />
-    <editor active="false" />
+    <frame x="10" y="22" width="1260" height="774" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958813" sideWeight="0.75774974" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19604613" sideWeight="0.7584098" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2422503" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24159022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -561,37 +648,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/qt4/qt4-demo.py">
+    <entry file="file://$PROJECT_DIR$/qgis/qgis_app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="3" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0">
+        <state line="26" column="8" selection-start="574" selection-end="574" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/qt4/qt4-demo2.py">
+    <entry file="file://$PROJECT_DIR$/tests/half.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="17" selection-start="0" selection-end="1000" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1372354493000" expanded="true" signature="199:237" placeholder="import ..." />
-            <marker date="1372354493000" expanded="true" signature="272:926" placeholder="..." />
-            <marker date="1372354493000" expanded="true" signature="303:861" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/qt4/dialog_app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="34" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1372356444000" expanded="true" signature="321:555" placeholder="..." />
-            <marker date="1372356444000" expanded="true" signature="346:430" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/qgis/qgis_app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="8" selection-start="574" selection-end="574" vertical-scroll-proportion="0.0">
+        <state line="4" column="7" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -603,9 +669,100 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/qt4/qt4-demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="3" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qt4/qt4-demo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="17" selection-start="0" selection-end="1000" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1372354493000" expanded="true" signature="-1:-1" placeholder="import ..." />
+            <marker date="1372354493000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1372354493000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qt4/dialog_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="34" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1372356444000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1372356444000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tests/half.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="7" selection-start="84" selection-end="84" vertical-scroll-proportion="0.12025317">
+        <state line="3" column="0" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qgis/dialog_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.032094594">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worst_practice/pylint_examples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_half.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="15" selection-end="362" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantras/mantra2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantras/mantra1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="25" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantras/mantra3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="0" selection-end="2586" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qgis/qgis_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="952" selection-end="978" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantras/mantra5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="15" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mantras/mantra7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="75" selection-end="99" vertical-scroll-proportion="0.08539326">
           <folding />
         </state>
       </provider>
