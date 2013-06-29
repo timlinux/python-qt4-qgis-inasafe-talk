@@ -20,9 +20,9 @@ if __name__ == "__main__":
     app = QgsApplication(sys.argv, gui_flag)
 
     # Some OSX specific setup
-    path = '/Applications/QGIS.app/contents/MacOS'
-    os.environ['QGIS_PREFIX_PATH'] = path
-    app.setPluginPath('/Applications/QGIS.app/contents/PlugIns/qgis/')
+    #path = '/Applications/QGIS.app/contents/MacOS'
+    #os.environ['QGIS_PREFIX_PATH'] = path
+    #app.setPluginPath('/Applications/QGIS.app/contents/PlugIns/qgis/')
 
     # Initilise QGIS and show its state
     app.initQgis()
@@ -31,11 +31,12 @@ if __name__ == "__main__":
         print str(item)
 
     base_dir = os.path.dirname(__file__)
-    layer_name = 'vector.shp'
+    layer_file = 'vector.shp'
+    full_path = os.path.join(base_dir, layer_file)
 
-    layer = QgsVectorLayer(base_dir, layer_name, 'ogr')
+    layer = QgsVectorLayer(full_path, 'some points', 'ogr')
     if layer.isValid():
         feature_count = layer.dataProvider().featureCount()
-        print 'Your layer has %i feature_count' % feature_count
+        print 'Your layer has %i features' % feature_count
     else:
         print 'Sorry layer is not valid!'
